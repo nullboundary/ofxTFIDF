@@ -1,0 +1,53 @@
+The first Chinese lunar orbiter, Chang'e 1, was launched from Xichang Satellite Launch Center on 24 October 2007[10] and entered lunar orbit on 5 November.[11] The spacecraft operated until 1 March 2009, when it was intentionally impacted into the surface of the Moon.[12] Data gathered by Chang'e 1 were used to create an accurate and high-resolution 3-D map of the entire lunar surface, assisting site selection for the Chang'e 3 lander.[13][14]
+
+Chang'e 1's successor, Chang'e 2, was launched on 1 October 2010 to conduct research from a 100-km-high lunar orbit, in preparation for Chang'e 3's 2013 soft landing.[15] Chang'e 2, though similar in design to Chang'e 1, was equipped with improved instruments and provided higher-resolution imagery of the lunar surface to assist in the planning of the Chang'e 3 mission. In 2012, Chang'e 2 was dispatched on an extended mission to the asteroid 4179 Toutatis.[16][17]
+
+In March 2012, China began manufacturing the body and payload of the Chang'e 3 lander, which will attempt to perform lunar surface and space studies independently of the mission's mobile rover.[4]
+
+Like its orbiting predecessors, the Chang'e 3 mission is planned as a precursor to further robotic lunar exploration missions, including Chang'e 5, a sample return mission planned for 2017.[1] Following these automated missions, a manned landing may be conducted around 2025.[18]
+
+Launch
+Chang'e 3 lander and rover were launched on 2 December 2013 on board a Long March 3B rocket from the Xichang Satellite Launch Centre in the southwestern province of Sichuan.[19]
+
+Homes downrange of the Launch Centre were damaged during liftoff when spent hardware wreckage from the rocket, including one piece the size of a desk, fell on a village in Suining county in neighbouring Hunan province. The county authorities had moved 160,000 people to safety before the liftoff, while more than 20,000 people near the launch site in Sichuan had been moved to a primary school auditorium. The expected wreckage zone for Long March rockets is 50 to 70 kilometres long and 30 km wide.[19][20]
+
+The probe entered a 100 km (62 mi)-high circular lunar orbit at 5:53 p.m. Beijing Time on Friday, 6 December (9:53 UTC). The orbit was obtained after 361 seconds of variable thrust engine braking.[21]
+
+Mission profile
+
+Although the exact mission plan is not publicly available, NASA's Lunar Reconnaissance Orbiter scientists speculate that a potential scenario is that the rover could set off towards Laplace A crater in Sinus Iridum.[22] There is no formal cooperation between NASA and the Chinese space agency, but the Lunar Reconnaissance Orbiter will monitor the planned landing site for Chang'e.[22]
+
+
+* Landing site
+(44.1°N 31.5°W)* Landing site
+(44.1°N 31.5°W)
+Planned landing site
+Lander
+The stationary lander is equipped with a radioisotope thermoelectric generator (RTG) in order to power its operations during its planned three-month mission. The lander has a mass of 1,200 kg (2,600 lb) and has a scientific payload of seven instruments and cameras. In addition to their lunar scientific roles, the cameras would also acquire images of the Earth and other celestial bodies.[1]
+
+Lander instruments
+Ultraviolet telescope and UV camera
+The lander is equipped with an astronomical telescope coupled with an extreme ultraviolet camera. It would be the Moon's first long term lunar-based astronomical observatory, making continuous observations of important celestial bodies to study their light variation and low galactic latitude. The extreme ultraviolet camera would investigate how solar activity affects the ion layer near the Earth.[23]
+
+Lander cameras
+Three panoramic cameras are installed on the lander, facing different directions. The lander is equipped with a single descent camera that was tested on the Chang’e 2 spacecraft.[24]
+
+Soil probe
+The Chang’e 3 lander also carries an extensible soil probe to conduct analyses of lunar soil.[24][25]
+
+Rover
+The Chang'e 3 mission incorporates a lunar rover named Yutu[9] designed to deploy from the lander and explore the lunar surface independently. Yutu, or Jade Rabbit, was a name selected in an online poll that comes from a Chinese myth about a white rabbit that lives on the Moon.[9]
+
+The development of the six-wheeled rover began in 2002 at the Shanghai Aerospace System Engineering Institute and was completed in May 2010.[26][27] The rover stands 1.5 m (4.9 ft) high, with a mass of approximately 120 kg (260 lb). With a payload capacity of approximately 20 kg (44 lb),[1][2][28] the rover may transmit video in real time, and can dig and perform simple analysis of soil samples. It can navigate inclines and has automatic sensors to prevent it from colliding with other objects.
+
+Energy would be provided by a solar panel, allowing the rover to operate through lunar days. The six-wheeled rover is designed to explore an area of 3 square kilometres (1.2 sq mi) during its 3-month mission, with a maximum travelling distance of 10 km (6.2 mi). The rover equipment is also capable of operating normally at -180°C during the Moon-night.[2]
+
+Ground-penetrating radar
+The rover carries a ground-penetrating radar on its underside, allowing for the first direct measurement of the structure and depth of the lunar soil down to a depth of 30 m (98 ft), and investigation of the lunar crust structure down to several hundred meters deep.[23]
+
+Spectrometers
+The rover carries an alpha particle X-ray spectrometer and an Infrared spectrometer[citation needed] to analyze the chemical element composition of lunar samples.
+
+Cameras
+There are two panoramic cameras on the mast of the Chang'e 3 rover, along with two navigation cameras (also on the mast) and two hazard avoidance cameras (installed on the lower front portion of the rover).[24]
+
